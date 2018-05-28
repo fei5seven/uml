@@ -1,12 +1,10 @@
 wget --no-check-certificate https://github.com/91yun/uml/raw/master/lkl/install.sh && bash install.sh
 
-ÅĞ¶Ï
+åˆ¤æ–­
 ping 10.0.0.2
 
 
-
-
-Èç¹ûĞŞ¸Ä×ª·¢¶Ë¿Ú
-ĞŞ¸Ä /root/lkl/run.sh £¬²éÕÒ 9000-9999 £¬¸Ä³ÉÄãÏëÒªµÄ¶Ë¿Ú¶Î
-ĞŞ¸Ä /root/lkl/haproxy.cfg ²éÕÒ 9000-9999 £¬¸Ä³ÉÄãÏëÒªµÄ¶Ë¿Ú¶Î
-ÖØÆô vps
+å¦‚æœä¿®æ”¹è½¬å‘ç«¯å£
+ä¿®æ”¹ /root/lkl/run.sh ï¼ŒæŸ¥æ‰¾ 9000-9999 ï¼Œæ”¹æˆä½ æƒ³è¦çš„ç«¯å£æ®µ
+ä¿®æ”¹ /root/lkl/haproxy.cfg æŸ¥æ‰¾ 9000-9999 ï¼Œæ”¹æˆä½ æƒ³è¦çš„ç«¯å£æ®µ
+é‡å¯ vps
